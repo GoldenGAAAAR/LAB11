@@ -26,7 +26,7 @@
 
 //TODO: ВСТАВИТЬ МЕСТОРАСПОЛОЖЕНИЯ СВОЕЙ cmake-build-debug ДИРЕКТОРИИ
 #define path \
-  "/Users/mihailkoraev/Documents/GitHub/11lab/cmake-build-debug"
+  "/home/pelmen/CLionProjects/4-sem-lab-11/cmake-build-debug"
 
 
 extern bool is_running;
